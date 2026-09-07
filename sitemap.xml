@@ -56,6 +56,71 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.studiocofotografia.com.br/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/como-escolher-fotografo-familia-curitiba.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/quanto-custa-ensaio-familia-curitiba.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/quando-fazer-ensaio-gestante.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/melhor-idade-ensaio-newborn.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/como-preparar-bebe-ensaio-newborn.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/estudio-ou-externo-ensaio-gestante.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/ideias-ensaio-familia-curitiba.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/como-funciona-smash-the-cake.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/o-que-vestir-ensaio-familia.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/por-que-fazer-acompanhamento-bebe.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/ensaio-infantil-crianca-a-vontade.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.studiocofotografia.com.br/blog/melhor-epoca-ensaio-fotografico-curitiba.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.studiocofotografia.com.br/sobre.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
