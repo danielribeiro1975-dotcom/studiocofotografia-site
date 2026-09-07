@@ -7,7 +7,7 @@
    gerenciar as tags por lá em vez deste arquivo.
    ========================================================================== */
 (function(){
-  var GA4_ID = 'G-XXXXXXXXXX'; // TODO: colar o Measurement ID real do GA4
+  var GA4_ID = 'G-ZPZB9CEXNX';
 
   var hasRealId = GA4_ID && GA4_ID.indexOf('XXXXXX') === -1;
 
@@ -48,9 +48,6 @@
     // portfolio_view — página com galeria
     if(document.querySelector('.gallery-grid')){ track('portfolio_view'); }
 
-    // destination_wedding_view — páginas de Destination Wedding
-    if(document.body.dataset.pageType === 'destination-wedding'){ track('destination_wedding_view'); }
-
     // scroll_90 — usuário rolou 90% da página
     var scrolled90 = false;
     window.addEventListener('scroll', function(){
@@ -67,7 +64,7 @@
     track('form_submit', { form_id: 'chatbot_qualificacao' });
     track('lead_generated', {
       method: 'chatbot',
-      destino: (e.detail && e.detail.destino) || 'não informado'
+      experiencia: (e.detail && e.detail.experiencia) || 'não informado'
     });
   });
 
